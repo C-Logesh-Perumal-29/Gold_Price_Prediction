@@ -24,3 +24,7 @@ Gold Price Prediction is a simple graphical user interface (GUI) application for
 - `Background.png`: The background image for the application.
 - `Gold rate.csv`: The dataset containing historical gold prices.
 - `Gold_Price_Model.pkl`: The pre-trained polynomial regression model.
+
+## User Interface
+
+![GPP](https://github.com/C-Logesh-Perumal-29/Gold_Price_Prediction/assets/125385633/d3049719-5cfc-4517-86ce-8edc760ff111)
